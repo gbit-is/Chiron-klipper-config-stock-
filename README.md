@@ -1,6 +1,6 @@
 # Chiron-klipper-config-stock
 
-A basic config for a stock anycubic chiron to use klipper.
+A basic config for a stock anycubic chiron to use klipper. (stock except it has a 0.6 nozzle)
 
 As of writing this, this config is running on:
 - klipper v0.11.0-148
